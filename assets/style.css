@@ -24,7 +24,7 @@ body{
     background-color: #FFF8E8;
 }
 h1{
-    color: white;
+    color: rgb(170, 9, 9);
     -webkit-text-stroke: 1px black;
     outline-color: black;
 }
