@@ -3,7 +3,7 @@
 }
 #nav{
     padding-left: 400px;
-    background-color: #D52941;
+    background-color: #FCD581;
 }
 #gamebox{
     display: flex;
@@ -19,4 +19,12 @@
 img{
     max-width: 50px;
     max-height: 30px;
+}
+body{
+    background-color: #FFF8E8;
+}
+h1{
+    color: white;
+    
+    outline-color: black;
 }
