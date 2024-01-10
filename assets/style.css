@@ -1,0 +1,18 @@
+.container{
+    padding-left: 70px;
+}
+#nav{
+    padding-left: 400px;
+    background-color: #D52941;
+}
+#gamebox{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#box1{
+    margin: auto;
+    margin-top: 100px
+    
+}
